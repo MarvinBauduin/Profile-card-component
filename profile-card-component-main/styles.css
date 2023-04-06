@@ -22,6 +22,7 @@ body{
 }
 .card .name{
     margin-left: 145px;
+    margin-top: 20px;
 }
 .card .name p{
     display: inline;
@@ -30,6 +31,7 @@ body{
 }
 .london{
     margin-left: 175px;
+    margin-bottom: 50px;
 }
 .stats .stat{
     display: block;
